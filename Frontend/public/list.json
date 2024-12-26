@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,        
+        "title": "Book 1",
+        "author": "Author 1",
+        "category": "Free",
+        "price": 10,
+        "description": "Description 1",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "id": 2,        
+        "title": "Book 2",
+        "author": "Author 2",
+        "category": "Free",
+        "price": 20,
+        "description": "Description 2",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "id": 3,        
+        "title": "Book 3",
+        "author": "Author 3",
+        "category": "Free",
+        "price": 30,
+        "description": "Description 3",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"   
+    },
+    {
+        "id": 4,        
+        "title": "Book 4",
+        "author": "Author 4",
+        "category": "Free",
+        "price": 40,
+        "description": "Description 4",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },    
+    {
+        "id": 5,        
+        "title": "Book 5",
+        "author": "Author 5",
+        "price": 50,
+        "description": "Description 5",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },    
+    {
+        "id": 6,        
+        "title": "Book 6",
+        "author": "Author 6",
+        "price": 60,
+        "description": "Description 6",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+]
